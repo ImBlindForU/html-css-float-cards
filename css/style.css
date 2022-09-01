@@ -49,8 +49,10 @@ h1,p{
     width: 20%;
     float: left;
 }
-.card h2,span,a{
+.vertical h2,span,a{
     margin-top: 1rem;
     margin-left: 1rem;
     width: 60%;
+    display: block;
 }
+
