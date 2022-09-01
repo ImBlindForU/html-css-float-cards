@@ -50,9 +50,8 @@ h1,p{
     float: left;
 }
 .vertical h2,span,a{
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     margin-left: 1rem;
-    width: 60%;
     display: block;
 }
 
