@@ -50,8 +50,7 @@ h1,p{
     float: left;
 }
 .card h2,span,a{
-    text-align: left;
-    display: block;
     margin-top: 1rem;
-    margin-left: 8rem;
+    margin-left: 1rem;
+    width: 60%;
 }
